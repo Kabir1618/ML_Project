@@ -14,7 +14,7 @@ def get_requirements(f_path:str)->List[str]:
     
     return requirements
 
-setup(  
+setup(     
     name='mlproejct',
     version='0.0.1',
     author='Kabir Singla',
