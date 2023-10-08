@@ -1,5 +1,5 @@
 name: workflow
-
+runs-on: self-hosted
 on:
   push:
     branches:
